@@ -1,0 +1,11 @@
+300-Bilgisayar Bilimlerine Giris-4-3-3-200
+301-Ayrik Matematik-3-5-1-200
+302-Alt Seviye Programlama-3-5-0-206
+303-Yapisal Prog.-5-25-0-209
+304-Bilgisayar Donanimi-3-5-0-206
+305-Algoritma Analizi-3-5-0-208
+306-Veritabani Yonetimi-3-5-0-201
+307-Nesneye Yonelik Programlama-3-5-0-209
+308-Gomulu Sistemler-3-5-0-202
+309-Oyun Gelistirmeye Giris-3-5-0-207
+310-Veri Yapilari ve Algoritmalar-3-5-0-204
