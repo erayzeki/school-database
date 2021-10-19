@@ -13,4 +13,4 @@ User can make following operations.
 * List lecturers by lecturer id number.
 * List enrolled students by course id.
 * List courses enrolled by a student.
-* Write students to a file by lecturer and course id.
+* Write students to a file enrolled in a course.
